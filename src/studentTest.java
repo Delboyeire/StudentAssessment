@@ -27,6 +27,9 @@ public class studentTest {
         Student std = new Student();
         std.getAttendanceGrade(142);
     }
+    
+    
+    
 
     @org.junit.Test
     public void absent() {
